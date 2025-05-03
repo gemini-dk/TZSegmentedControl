@@ -459,7 +459,7 @@
 //                let imageyOffset : CGFloat = CGFloat(roundf(Float(
 //                    ((self.frame.height - self.selectionIndicatorHeight) / 2) + 8.0)))
 //  D.Kawamura
-                let imageYOffset:CGFloat = 20.0
+                let imageyOffset:CGFloat = 20.0
                 let imageRect = CGRect(x: imagexOffset, y: imageyOffset, width: imageWidth, height: imageHeight)
                 var textRect = CGRect(x: textxOffset, y: yOffset, width: textWidth, height: stringHeight)
                 
